@@ -1,4 +1,7 @@
 /**
+ * @author Max L Dolgov <bananafishbone@gmail.com>
+ * @license MIT
+ * 
  * JSONP simple utility
  * @param options
  * - **`url`** - `{string}` - request's URL
